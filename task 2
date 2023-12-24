@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <p>Web Developer</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Welcome to my portfolio! I am a passionate web developer with expertise in front-end and back-end
+                development. I love creating responsive and user-friendly websites.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+                <li>React.js</li>
+                <li>Node.js</li>
+                <li>SQL</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt urna sed justo scelerisque,
+                    vel cursus purus tempus.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt urna sed justo scelerisque,
+                    vel cursus purus tempus.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me. I'm open to new opportunities and collaborations.</p>
+            <p>Email: your.email@example.com</p>
+            <p>LinkedIn: linkedin.com/in/yourname</p>
+            <p>GitHub: github.com/yourusername</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
